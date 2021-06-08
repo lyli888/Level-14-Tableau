@@ -1,5 +1,5 @@
 # Level-14-Tableau
-Click [here])(https://public.tableau.com/profile/ll1981#!/) to see my visualizations on Tableau Public.
+Click [here](https://public.tableau.com/profile/ll1981#!/) to see my visualizations on Tableau Public.
 
 Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
