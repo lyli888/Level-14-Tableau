@@ -1,17 +1,13 @@
 # Level-14-Tableau
-https://public.tableau.com/profile/ll1981#!/
+Click [here])(https://public.tableau.com/profile/ll1981#!/) to see my visualizations on Tableau Public.
 
-Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
+Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-## Task
+## Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. Design 2-5 visualizations for each phenomena (4-10 total) within a timespan of your choosing. You may merge multiple datasets from different periods.
 
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
+**The following are some suggestions you may wish to tackle.**
 
-**Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
-
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
-
-* How many trips have been recorded total during the chosen period?
+* How many total trips have been recorded during the chosen period?
 
 * By what percentage has total ridership grown?
 
@@ -41,10 +37,7 @@ Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure fo
 
 * How variable is the utilization by bike ID?
 
-**Next**
-
-* Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
-* The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
+## Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena. The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
 
 **City officials would also like to see one of the following visualizations:**
 
