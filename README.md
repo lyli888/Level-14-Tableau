@@ -3,7 +3,7 @@ Click [here](https://public.tableau.com/profile/ll1981#!/) to see my visualizati
 
 Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-## Aggregate the data found in the Citi Bike Trip History Logs and find 2 unexpected phenomena. Design 2-5 visualizations for each phenomena (4-10 total) within any timespan. Datasets may be merged.
+## Aggregate the data found in the Citi Bike Trip History Logs and find 2 unexpected phenomena. Design 2-5 visualizations for each phenomena (4-10 total) within any timespan.
 
 **The following are some suggestions you may wish to tackle.**
 
@@ -37,7 +37,7 @@ Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure fo
 
 * How variable is the utilization by bike ID?
 
-## Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena. The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
+## Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena. Write an analysis explaining why the phenomena may be occuring. 
 
 ## City officials would also like to see one of the following visualizations:
 
@@ -47,11 +47,10 @@ Since 2013, the NYC Citi Bike Program has implemented a robust infrastructure fo
 ## Final Presentation
 
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
-* This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
 ## Considerations
 
-Remember, the people reading your analysis will **NOT** be data analysts-the goal is to make appealing & compelling arguments.
+Remember, the people reading your analysis will **NOT** be data analysts-the goal is to make visually compelling, appealing & compelling arguments.
 
 ## Submission 
 
@@ -74,17 +73,7 @@ Your final submission should include:
 
 * Once you have created an account and published your work to Tableau Public, go to the visualization in Tableau Public and find the `Download` button at the bottom right hand corner.
 
-* Please download the Tableau Public file to your computer and submit it.
-
-## Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
+* Download the Tableau Public file to your computer and submit it.
 
 ## Hints
 
